@@ -14,7 +14,7 @@ This program implements the following design patterns:
 
 We want to perform different types of operations on the news articles we receive, including filtering based on a given filter expression and caching recently seen articles to be removed from subsequent calls. To address this problem, I used an instance of the Decorator pattern by creating multiple processor classes, with each class performing a unique operation, that can be combined into a single processor object that is capable of executing a sequence of operations.
 
-Sample Decorator Class Constructor:
+Sample Decorator Class Constructor (This Processer Adds Cacheing Functionality to the Decorator Chain):
 ```
 /**
    * Constructs a CacheProcessor given another processor.
