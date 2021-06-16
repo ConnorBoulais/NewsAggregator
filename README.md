@@ -1,8 +1,8 @@
 # NewsAggregator
 
-This is a java program that collects and displays news from different sources (files, urls, etc.). This program was developed to demonstrate multiple different software design patterns which are detailed below.
+This Java program collects and displays news from different sources (files, urls, etc.), and was developed to demonstrate multiple different software design patterns which are detailed below.
 
-The project also uses ANTLR to generate code that reads and parses input data from files and URLs.
+The project also uses the ANTLR library to generate code that reads and parses input data from files and URLs.
 
 For a more detailed report of the design patterns used here, please see the DesignAnalysis.pdf file at the root of this repository.
 
