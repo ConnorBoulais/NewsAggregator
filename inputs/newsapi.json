@@ -1,0 +1,266 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Nick Statt",
+      "title": "Amazon in-stock alerts are trolling people with $5,000 RTX 3080 graphics cards - The Verge",
+      "description": "Nvidia’s RTX 3080 graphics card is still extremely hard to find, and now, Amazon listings for the GPU priced between $3,500 and $5,000 are sending emails to interested customers.",
+      "url": "https://www.theverge.com/2020/9/21/21449506/nvidia-rtx-3080-amazon-listings-price-gouging-trolling",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/mo-4HtFw3EpVaQJtsECy92pQIjE=/0x184:2640x1566/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21868764/twarren_rtx3080.jpg",
+      "publishedAt": "2020-09-21T19:58:27Z",
+      "content": "Sellers are re-listing the out-of-stock item at exorbitant prices\r\nPhoto by Tom Warren / The Verge\r\nNvidias RTX 3080 launch last week was a total mess, one Nvidia is still navigating the fallout from… [+2468 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Ian Sherr",
+      "title": "Microsoft's $7.5B purchase of Bethesda's parent ZeniMax is a big deal for Xbox Series X - CNET",
+      "description": "The move marks a significant purchase in the gaming world and strengthens Microsoft's Xbox lineup ahead of a new launch in November.",
+      "url": "https://www.cnet.com/news/microsoft-7-5b-purchase-of-bethesdas-parent-zenimax-is-a-big-deal-for-xbox-series-x/",
+      "urlToImage": "https://cnet1.cbsistatic.com/img/tHFe01VZW5h5sz4yiMoGipAuTdU=/1200x630/2018/06/13/189314f7-e3f5-4f31-823a-85215e20ff2b/fallout-76-7137.jpg",
+      "publishedAt": "2020-09-21T19:46:00Z",
+      "content": "Microsoft's making more investments in its Xbox gaming franchise.\r\nJames Martin/CNET\r\nMicrosoft's Xbox team significantly expanded its list of game development studios on Monday, announcing the purch… [+2802 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Paul Vercammen and Hollie Silverman, CNN",
+      "title": "The Bobcat Fire is one of the largest in Los Angeles County history after scorching more than 100,000 acres - CNN",
+      "description": "The wildfire is one of at least 27 blazes currently burning in the state, where 26 people have died and 6,100 structures have been destroyed since fire activity picked up in August.",
+      "url": "https://www.cnn.com/2020/09/21/us/bobcat-fire-los-angeles-county/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200921003137-02-bobcat-fire-los-angeles-county-super-tease.jpg",
+      "publishedAt": "2020-09-21T19:28:00Z",
+      "content": "(CNN)The Bobcat Fire in Los Angeles County has scorched more than 100,000 acres as of Monday, making it one of the largest fires in the county's history.\r\nIt is one of at least 27 major wildfires cur… [+3069 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Karla Adam",
+      "title": "Britain could face 50,000 coronavirus cases per day by mid-October, top government scientists warn - The Washington Post",
+      "description": "The number of coronavirus cases is doubling roughly every seven days, and new restrictions are expected.",
+      "url": "https://www.washingtonpost.com/world/europe/britain-could-face-50000-coronavirus-cases-per-day-by-mid-october-warn-top-government-scientists/2020/09/21/a339bad0-fbe1-11ea-b0e4-350e4e60cc91_story.html",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JOTG7SX374I6VNKVJVY2SJKPJM.jpg&w=1440",
+      "publishedAt": "2020-09-21T19:22:00Z",
+      "content": "If, and thats quite a big if, but if that continues unabated ... you would end up with something like 50,000 cases in the middle of October, per day, Vallance said. A month later, this could result i… [+3665 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "John Koblin",
+      "title": "Ellen DeGeneres Returns to Show With Apology for Toxic Workplace - The New York Times",
+      "description": "“Things happen here that never should have happened,” the host says. Warner Bros. started investigating her show in July, after complaints of a toxic workplace culture. Three top producers have been ousted.",
+      "url": "https://www.nytimes.com/2020/09/21/business/media/ellen-degeneres-show.html",
+      "urlToImage": "https://static01.nyt.com/images/2020/09/21/business/21degeneres1/21degeneres1-facebookJumbo.jpg",
+      "publishedAt": "2020-09-21T19:12:00Z",
+      "content": "The truth is, I am that person that you see on TV, she continued. I am also a lot of other things. Sometimes I get sad, I get mad, I get anxious, I get frustrated, I get impatient. And I am working o… [+1029 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Al Root",
+      "title": "GE Pulls the Plug on Coal Power Plants. What It Means for the Stock. - Barron's",
+      "description": "",
+      "url": "https://www.barrons.com/articles/ge-pulls-plug-on-a-shrinking-business-building-coal-power-plants-51600706184",
+      "urlToImage": "https://images.barrons.com/im-234430/social",
+      "publishedAt": "2020-09-21T18:52:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vulture"
+      },
+      "author": "Josef Adalian",
+      "title": "The 2020 Emmy Awards Were the Least-Watched Ever - Vulture",
+      "description": "And here’s why that’s not a surprise.",
+      "url": "http://www.vulture.com/2020/09/emmys-2020-ratings.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/e03/51a/5d6fa7a3e9756c91a88ed77c2555053fbf-kimmel-emmys.1x.rsocial.w1200.jpg",
+      "publishedAt": "2020-09-21T18:17:57Z",
+      "content": "Oh, Schitt: The TV audience for Sunday nights virtual Emmy Awards fell to 6.1 million viewers, easily making it the least-watched in Nielsen ratings history. Despite some really good reviews, the Jim… [+2718 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KOCO Oklahoma City"
+      },
+      "author": null,
+      "title": "CDC abruptly removes guidance about airborne COVID-19 transmission, says update 'was posted in error' - KOCO Oklahoma City",
+      "description": "The U.S. Centers for Disease Control and Prevention on Monday abruptly reverted to its previous guidance about how coronavirus is transmitted, removing language about airborne transmission it had posted just days earlier.",
+      "url": "https://www.koco.com/article/updated-cdc-guidance-says-coronavirus-can-spread-through-the-air/34089940",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/200513041447-cdc-building-atlanta-live-video-1600709868.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2020-09-21T17:44:00Z",
+      "content": "The U.S. Centers for Disease Control and Prevention on Monday abruptly reverted to its previous guidance about how coronavirus is transmitted, removing language about airborne transmission it had pos… [+3465 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "",
+      "title": "How Much Cash On Hand Trump And Biden Have - NPR",
+      "description": "According to the campaigns, Democrats entered September with about $140 million more cash on hand than Republicans.",
+      "url": "https://www.npr.org/2020/09/21/915301313/biden-enters-campaigns-final-stretch-with-cash-advantage-over-trump",
+      "urlToImage": "https://media.npr.org/assets/img/2020/09/21/gettyimages-1228622753_wide-02aa6b788301dc909f1128e9921eea97c37f641f.jpg?s=1400",
+      "publishedAt": "2020-09-21T17:30:36Z",
+      "content": "Democratic presidential nominee Joe Biden leaves after speaking Sunday at the National Constitution Center in Philadelphia.\r\nRoberto Schmidt/AFP via Getty Images\r\nDemocrats go into the final weeks of… [+2463 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "William Watts",
+      "title": "Why the Dow is diving: Ginsburg replacement battle amplifies election jitters - MarketWatch",
+      "description": "Election becomes ‘even more’ of a risk event",
+      "url": "https://www.marketwatch.com/story/why-the-dow-is-plunging-ginsburg-replacement-battle-covid-19-and-everything-else-11600708678",
+      "urlToImage": "https://images.mktw.net/im-234570/social",
+      "publishedAt": "2020-09-21T17:17:00Z",
+      "content": "Read: Mondays stock-market selloff sets up worst September in 18 years\r\nThey include: \r\n<ul><li> \r\n A rising number of COVID-19 infections that threaten to force renewed lockdowns of major European e… [+3034 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "",
+      "title": "270 Pilot Whales Have Been Stranded In Tasmania. The Race Is On To Save Them - NPR",
+      "description": "Video of the area shows large groups of pilot whales stuck on sandbars, trying fruitlessly to free themselves. An estimated 25 whales have already died.",
+      "url": "https://www.npr.org/2020/09/21/915285788/in-tasmania-a-mission-to-rescue-270-stranded-whales",
+      "urlToImage": "https://media.npr.org/assets/img/2020/09/21/ap_20265349570478_wide-c44a400e49e5eb85ffccf8960518c9985b939536.jpg?s=1400",
+      "publishedAt": "2020-09-21T17:07:57Z",
+      "content": "Pilot whales lie stranded on a sandbar Monday near Strahan, Australia. Marine conservationists have been deployed to the scene on Tasmania's west coast to try to rescue the whales.\r\nBrodie Weeding/AP… [+2601 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Ryan W. Miller",
+      "title": "NYC's 'Fearless Girl' statue dons white, lace collar to honor Ruth Bader Ginsburg - USA TODAY",
+      "description": "The collar was placed on the \"Fearless Girl\" statue as part of an ad by State Street Global Advisors, which first commissioned the statue in 2017.",
+      "url": "https://www.usatoday.com/story/news/nation/2020/09/21/ruth-bader-ginsburg-fearless-girl-statue-dons-white-lace-collar/5852310002/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2020/09/21/USAT/9d52dcd9-6d67-406f-aacd-5efb665461cf-fearless_girl_rbg.JPG?crop=458,258,x1,y64&width=1600&height=800&fit=bounds",
+      "publishedAt": "2020-09-21T17:06:46Z",
+      "content": "Supreme Court justice Ruth Bader Ginsburg has died at age 87. Ginsburg is most noted for her lifelong fight for equality for women.\r\nUSA TODAY\r\nNEW YORK  In a tribute to the late Justice Ruth Bader G… [+2657 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Arctic sea-ice shrinks to near record low extent - BBC News",
+      "description": "Only in 2012 have satellites seen the summer floes in the polar north more withdrawn than in 2020.",
+      "url": "https://www.bbc.com/news/science-environment-54211760",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14F08/production/_114486758_20200817_mosaicleg5_steffengraupner_008_kopie.jpg",
+      "publishedAt": "2020-09-21T17:06:01Z",
+      "content": "Image copyrightMOSAIC/AWI/Steffen Graupner\r\nThis summer's Arctic sea-ice shrank to its second lowest ever extent in the era of satellite observation.\r\nThe floes withdrew to just under 3.74 million sq… [+4059 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Brian Sozzi",
+      "title": "GM sticks by Nikola as the EV maker's stock plunges after founder Trevor Milton exits - Yahoo Finance",
+      "description": "GM defends Nikola, yet again.",
+      "url": "https://finance.yahoo.com/news/gm-sticks-by-nikola-as-stock-plunges-after-founder-exits-165759751.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/qOyQMhYFUa30q8LyzcFlZQ--~B/aD0zMjgwO3c9NDkyODtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-08/c3389ab0-db1e-11ea-bdcd-039ab3a840e1",
+      "publishedAt": "2020-09-21T16:57:00Z",
+      "content": "Despite Nikola shares being in free fall Monday after the departure of founder Trevor Milton amid allegations he deceived investors, General Motors (GM) is defending the company and its potential inv… [+2099 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Brent Swails and Zamira Rahim, CNN",
+      "title": "Toxins in water blamed for deaths of hundreds of elephants in Botswana - CNN",
+      "description": "More than 300 elephants in Botswana have been killed by toxin-producing cyanobacteria in waterholes, government wildlife officials said Monday. But that explanation doesn't satisfy some conservationists.",
+      "url": "https://www.cnn.com/2020/09/21/africa/botswana-elephant-deaths-intl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200921112606-restricted-01-botswana-elephants-super-tease.jpg",
+      "publishedAt": "2020-09-21T16:48:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Trust.org"
+      },
+      "author": "Thomson Reuters Foundation",
+      "title": "WHO says no change to COVID-19 transmission guidance after ... - Thomson Reuters Foundation",
+      "description": "HEALTH-CORONAVIRUS/WHO-TRANSMISSION (UPDATE 1):UPDATE 1-WHO says no change to COVID-19 transmission guidance after U.S. draft change",
+      "url": "https://news.trust.org/item/20200921153613-rrsjj",
+      "urlToImage": "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/d73926e2-5485-4be3-900e-6f9609a090ea/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100",
+      "publishedAt": "2020-09-21T16:27:00Z",
+      "content": "(Adding details throughout)\r\nGENEVA/LONDON, Sept 21 (Reuters) - The World Health Organization has not changed its policy on aerosol transmission of the coronavirus, it said on Monday after U.S. healt… [+1353 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Wilson Wong",
+      "title": "Single plane passenger infected 15 others with Covid-19, CDC says - NBC News",
+      "description": "A single passenger spread Covid-19 to 15 others aboard a flight from London to Hanoi, Vietnam, according to a study by the CDC.",
+      "url": "https://www.nbcnews.com/news/us-news/single-plane-passenger-infected-15-others-covid-19-cdc-says-n1240607",
+      "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2020_21/3357266/200520-coronavirus-mc-1103_a99c5f49fca33695e334a6d9018f6f03.nbcnews-fp-1200-630.JPG",
+      "publishedAt": "2020-09-21T16:26:00Z",
+      "content": "A single passenger spread Covid-19 to 15 others aboard a flight from London to Hanoi, Vietnam, according to a study published Friday by the Centers for Disease Control and Prevention.\r\nResearchers id… [+2182 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jacob Pramuk",
+      "title": "House Democrats unveil bill to avoid government shutdown, but McConnell slams lack of farm aid - CNBC",
+      "description": "Congress needs to pass a government spending bill before Sept. 30 to avoid a government shutdown.",
+      "url": "https://www.cnbc.com/2020/09/21/government-shutdown-democrats-unveil-bill-to-fund-government.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106710808-1600703172191-anan.jpg?v=1600703208",
+      "publishedAt": "2020-09-21T16:21:00Z",
+      "content": "House Democrats released a bill Monday to fund the government until Dec. 11, but Senate Republicans quickly criticized it, leaving the path to a deal to prevent a shutdown unclear.\r\nThe plan, which w… [+1786 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Jennifer Bisset",
+      "title": "Emmys 2020 full list of winners: Watchmen, Schitt's Creek, Zendaya, Mark Ruffalo and more - CNET",
+      "description": "Succession wins best drama series, with Regina King, Zendaya and Mark Ruffalo winning big acting awards, and Schitt's Creek sweeping the comedy categories.",
+      "url": "https://www.cnet.com/news/emmys-2020-full-list-of-award-winners-watchmen-schitts-creek-zendaya-mark-ruffalo-and-more/",
+      "urlToImage": "https://cnet3.cbsistatic.com/img/s-oJae_Ujp6JeeO4tTBLnSXnUB4=/122x0:1302x836/1200x630/2020/09/21/dba8c659-7b3c-4721-8462-4f097fab00ba/download-1.jpg",
+      "publishedAt": "2020-09-21T16:13:00Z",
+      "content": "Watchmen.\r\nHBO\r\nThe 2020 Primetime Emmy Awards are done, with Schitt's Creek sweeping the comedy awards and HBO's Watchmen and Succession nabbing a host of their own big wins in the limited-series an… [+4807 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Giants.com"
+      },
+      "author": null,
+      "title": "Saquon Barkley MRI confirms torn ACL; will undergo surgery - Giants.com",
+      "description": "Saquon Barkley underwent an MRI of his right knee that confirmed a torn ACL. Barkley will undergo surgery to repair the injury in the near future.",
+      "url": "https://www.giants.com/news/saquon-barkley-mri-confirms-torn-acl-will-undergo-surgery",
+      "urlToImage": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/giants/ochbqthawfpqzvuxas2g",
+      "publishedAt": "2020-09-21T16:03:31Z",
+      "content": "Statement from the New York Giants:\r\nGiants running back Saquon Barkley underwent an MRI of his right knee this morning at Hospital for Special Surgery. The results of the testing confirmed that Bark… [+125 chars]"
+    }
+  ],
+  "status": "ok",
+  "totalResults": 38
+}

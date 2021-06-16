@@ -1,0 +1,22 @@
+url
+name: Simple (Live)
+format: simple
+source: http://users.csc.calpoly.edu/~akeen/courses/csc305/simple.json
+filter: 10
+
+url
+name: NewsAPI Headlines (Live)
+format: newsapi
+source: http://newsapi.org/v2/top-headlines?country=us&apiKey={NEWS_API_KEY}
+filter:
+delay:100
+
+
+file
+name: NewsAPI Fixed
+format: newsapi
+source: inputs/newsapi.json
+filter: Ginsburg & usatoday | cnn.com
+
+
+
